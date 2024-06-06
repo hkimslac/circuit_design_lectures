@@ -30,4 +30,4 @@
 
 
 ### Github-based
-[SerDes design using Julia - Dr. Kevin Zheng] (https://github.com/kevjzheng/JLSD/tree/main/Pluto%20Notebooks)
+[SerDes design using Julia - Dr. Kevin Zheng](https://github.com/kevjzheng/JLSD/tree/main/Pluto%20Notebooks)
