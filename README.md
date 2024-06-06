@@ -27,3 +27,7 @@
 [Digital Custom Design by Professor Rabaey from UC Berk](https://www.amazon.com/Digital-Integrated-Circuits-2nd-Rabaey/dp/0130909963)
 
 [Digital Design by N. Weste and Professor David Harris](https://www.amazon.com/CMOS-VLSI-Design-Circuits-Perspective/dp/0321547748)
+
+
+### Github-based
+[SerDes design using Julia - Dr. Kevin Zheng] (https://github.com/kevjzheng/JLSD/tree/main/Pluto%20Notebooks)
